@@ -1,41 +1,104 @@
-# Hi, I'm Janithya Aththanayaka 👋
+<div align="center">
 
-Level 2 Undergraduate at **Wayamba University of Sri Lanka**
-Interested in **C, Java, Object-Oriented Programming & Software Development**
-Interested in **Management, Marketing & Problem Solving**
-Program Team Member at **IEEE IAS Student Branch Chapter, WUSL**
+# 👋 Hi, I'm Janithya Aththanayaka
 
-## About Me
+### 💻 Undergraduate | Programming & Software Development
 
-I am a Level 2 undergraduate in the **Faculty of Applied Sciences** at Wayamba University of Sri Lanka, developing my skills in programming, problem-solving, management, and software development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Learning+Programming+%26+Software+Development;Building+Projects+with+Java+%26+C;Exploring+Object-Oriented+Programming;Interested+in+Management+%26+Marketing;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG" />
 
-Currently learning and working with **C, Java, OOP, MySQL, JDBC, Git, and GitHub** through university projects and practical work.
+🎓 **Level 2 Undergraduate at Wayamba University of Sri Lanka**
 
-## Skills & Technologies
+💻 Learning **C, Java & Object-Oriented Programming**
+
+📊 Exploring **Management, Marketing, Mathematics & Statistics**
+
+⚡ **Program Team Member – IEEE IAS Student Branch Chapter, WUSL**
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I am a Level 2 undergraduate in the **Faculty of Applied Sciences** at Wayamba University of Sri Lanka, interested in programming, software development, management, and problem-solving.
+
+I enjoy learning new technologies and applying what I learn through practical university projects.
+
+Currently working with **C, Java, OOP, MySQL, JDBC, Git and GitHub**.
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,mysql,git,github,vscode" />
+
+</p>
+
+**Programming**
 
 * C
 * Java
-* Object-Oriented Programming (OOP)
+* Object-Oriented Programming
+
+**Database & Tools**
+
 * MySQL
 * JDBC
 * Git & GitHub
-* Mathematics & Statistics
+* VS Code
+
+**Other Interests**
+
 * Management
 * Marketing
+* Mathematics & Statistics
 
-## Projects
+---
 
-### Serendip
+## 🚀 Projects
 
-An OOP-based online marketplace system developed using **Java**.
-The project connects Sri Lankan individual sellers and small businesses with buyers worldwide.
+### 🛍️ Serendip
 
-### HealthLink
+**OOP-Based Online Marketplace System**
 
-A digital patient health record system concept designed to support connected healthcare records.
+A Java-based online marketplace system designed to connect Sri Lankan individual sellers and small businesses with buyers worldwide.
 
-## University
+**Technologies:** Java | OOP | MySQL | JDBC
+
+---
+
+### 🏥 HealthLink
+
+**Digital Patient Health Record System**
+
+A digital health record system concept designed to support connected patient health records.
+
+**Technologies:** PHP | MySQL | Web Technologies
+
+---
+
+## 🎓 Education
 
 **Wayamba University of Sri Lanka**
-Faculty of Applied Sciences
 
+Faculty of Applied Sciences
+Level 2 Undergraduate
+
+---
+
+## ⚡ IEEE
+
+**Program Team Member**
+IEEE IAS Student Branch Chapter
+Wayamba University of Sri Lanka
+
+---
+
+
+<div align="center">
+
+### 🌱 Always Learning. Always Building.
+
+</div>
