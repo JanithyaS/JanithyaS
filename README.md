@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Janithya Aththanayaka
+# Hi, I'm Janithya Aththanayaka
 
-### 💻 Undergraduate | Programming & Software Development
+### Undergraduate | Programming & Software Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Learning+Programming+%26+Software+Development;Building+Projects+with+Java+%26+C;Exploring+Object-Oriented+Programming;Interested+in+Management+%26+Marketing;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG" />
 
-🎓 **Level 2 Undergraduate at Wayamba University of Sri Lanka**
+ **Level 2 Undergraduate at Wayamba University of Sri Lanka**
 
-💻 Learning **C, Java & Object-Oriented Programming**
+ Learning **C, Java & Object-Oriented Programming**
 
-📊 Exploring **Management, Marketing, Mathematics & Statistics**
+ Exploring **Management, Marketing, Mathematics & Statistics**
 
-⚡ **Program Team Member – IEEE IAS Student Branch Chapter, WUSL**
+ **Program Team Member – IEEE IAS Student Branch Chapter, WUSL**
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am a Level 2 undergraduate in the **Faculty of Applied Sciences** at Wayamba University of Sri Lanka, interested in programming, software development, management, and problem-solving.
 
@@ -28,7 +28,7 @@ Currently working with **C, Java, OOP, MySQL, JDBC, Git and GitHub**.
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 <p align="center">
 
@@ -57,9 +57,9 @@ Currently working with **C, Java, OOP, MySQL, JDBC, Git and GitHub**.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🛍️ Serendip
+###  Serendip
 
 **OOP-Based Online Marketplace System**
 
@@ -69,7 +69,7 @@ A Java-based online marketplace system designed to connect Sri Lankan individual
 
 ---
 
-### 🏥 HealthLink
+###  HealthLink
 
 **Digital Patient Health Record System**
 
@@ -79,7 +79,7 @@ A digital health record system concept designed to support connected patient hea
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Wayamba University of Sri Lanka**
 
@@ -88,7 +88,7 @@ Level 2 Undergraduate
 
 ---
 
-## ⚡ IEEE
+##  IEEE
 
 **Program Team Member**
 IEEE IAS Student Branch Chapter
@@ -99,6 +99,6 @@ Wayamba University of Sri Lanka
 
 <div align="center">
 
-### 🌱 Always Learning. Always Building.
+###  Always Learning. Always Building.
 
 </div>
