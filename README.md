@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Janithya Aththanayaka 👋
 
-<!--
-**JanithyaS/JanithyaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Level 2 Undergraduate at **Wayamba University of Sri Lanka**
+Interested in **C, Java, Object-Oriented Programming & Software Development**
+Interested in **Management, Marketing & Problem Solving**
+Program Team Member at **IEEE IAS Student Branch Chapter, WUSL**
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Level 2 undergraduate in the **Faculty of Applied Sciences** at Wayamba University of Sri Lanka, developing my skills in programming, problem-solving, management, and software development.
+
+Currently learning and working with **C, Java, OOP, MySQL, JDBC, Git, and GitHub** through university projects and practical work.
+
+## Skills & Technologies
+
+* C
+* Java
+* Object-Oriented Programming (OOP)
+* MySQL
+* JDBC
+* Git & GitHub
+* Mathematics & Statistics
+* Management
+* Marketing
+
+## Projects
+
+### Serendip
+
+An OOP-based online marketplace system developed using **Java**.
+The project connects Sri Lankan individual sellers and small businesses with buyers worldwide.
+
+### HealthLink
+
+A digital patient health record system concept designed to support connected healthcare records.
+
+## University
+
+**Wayamba University of Sri Lanka**
+Faculty of Applied Sciences
+
